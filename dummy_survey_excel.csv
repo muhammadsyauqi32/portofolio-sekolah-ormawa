@@ -1,0 +1,501 @@
+ID,Umur,Jenis_Kelamin,Wilayah,Pendidikan,Pendapatan_Bulanan,Kepuasan
+1,56,Perempuan,Jawa Barat,S1,12,2
+2,46,Laki-laki,Jawa Barat,S2,3,1
+3,32,Perempuan,Jakarta,SMA,9,5
+4,25,Perempuan,Bali,Diploma,9,4
+5,38,Laki-laki,Jawa Tengah,S1,18,4
+6,56,Perempuan,Bali,SMA,16,1
+7,36,Perempuan,Jawa Tengah,S1,18,3
+8,40,Perempuan,Jawa Timur,SMA,14,2
+9,28,Laki-laki,Bali,SMA,6,4
+10,28,Perempuan,Jawa Timur,S2,13,5
+11,41,Laki-laki,Jawa Barat,SMA,2,5
+12,53,Laki-laki,Jawa Barat,S1,6,3
+13,57,Perempuan,Jakarta,S1,9,4
+14,41,Laki-laki,Bali,SMA,14,1
+15,20,Laki-laki,Jawa Timur,S1,9,5
+16,39,Perempuan,Jawa Tengah,S2,12,3
+17,19,Perempuan,Jawa Barat,SMA,2,4
+18,41,Perempuan,Jawa Barat,S1,14,4
+19,47,Perempuan,Jawa Tengah,Diploma,4,4
+20,55,Laki-laki,Jawa Timur,S1,18,4
+21,19,Laki-laki,Jawa Timur,S1,6,4
+22,38,Laki-laki,Bali,SMA,9,5
+23,50,Perempuan,Bali,S2,15,3
+24,29,Perempuan,Jakarta,S2,5,4
+25,39,Perempuan,Jawa Barat,S1,12,2
+26,42,Perempuan,Bali,S1,16,2
+27,44,Laki-laki,Jawa Timur,S1,8,3
+28,59,Perempuan,Jawa Tengah,Diploma,12,1
+29,45,Laki-laki,Jawa Timur,S1,6,1
+30,33,Perempuan,Jawa Barat,Diploma,6,1
+31,32,Laki-laki,Jawa Timur,Diploma,9,2
+32,20,Perempuan,Jakarta,S1,11,1
+33,54,Laki-laki,Jawa Barat,Diploma,7,5
+34,24,Laki-laki,Jawa Tengah,SMA,16,4
+35,38,Laki-laki,Jakarta,SMA,17,2
+36,26,Perempuan,Jawa Barat,Diploma,18,3
+37,56,Perempuan,Jawa Tengah,S1,9,3
+38,35,Laki-laki,Jakarta,Diploma,9,4
+39,21,Laki-laki,Jakarta,S1,10,2
+40,42,Perempuan,Jawa Barat,Diploma,3,1
+41,31,Laki-laki,Bali,S1,16,1
+42,26,Perempuan,Jakarta,SMA,19,5
+43,43,Perempuan,Jakarta,Diploma,4,5
+44,19,Laki-laki,Jawa Tengah,S1,18,1
+45,37,Laki-laki,Jawa Timur,S1,5,3
+46,45,Perempuan,Jawa Barat,Diploma,5,3
+47,24,Laki-laki,Jawa Barat,SMA,15,5
+48,25,Laki-laki,Bali,SMA,10,4
+49,52,Perempuan,Bali,SMA,10,1
+50,31,Perempuan,Jawa Barat,S1,19,5
+51,34,Perempuan,Bali,SMA,11,5
+52,53,Perempuan,Jawa Tengah,Diploma,5,1
+53,57,Laki-laki,Jawa Barat,Diploma,13,1
+54,21,Laki-laki,Bali,SMA,9,3
+55,19,Perempuan,Jawa Barat,Diploma,3,4
+56,23,Perempuan,Jawa Timur,SMA,14,4
+57,59,Laki-laki,Jakarta,Diploma,17,1
+58,21,Perempuan,Jawa Barat,SMA,3,2
+59,46,Laki-laki,Jakarta,S1,12,5
+60,35,Perempuan,Bali,SMA,11,5
+61,43,Laki-laki,Jakarta,S2,16,1
+62,51,Laki-laki,Jawa Barat,Diploma,18,2
+63,27,Laki-laki,Jawa Timur,S1,9,3
+64,53,Laki-laki,Bali,S1,19,1
+65,31,Laki-laki,Jawa Barat,S1,10,1
+66,48,Perempuan,Bali,S1,9,5
+67,32,Perempuan,Jawa Tengah,Diploma,15,1
+68,25,Perempuan,Jakarta,Diploma,19,1
+69,31,Perempuan,Jawa Tengah,Diploma,13,1
+70,40,Laki-laki,Jawa Barat,Diploma,15,5
+71,57,Laki-laki,Jawa Timur,SMA,18,3
+72,38,Perempuan,Bali,SMA,4,3
+73,33,Laki-laki,Jakarta,S1,8,1
+74,35,Perempuan,Bali,Diploma,18,5
+75,41,Laki-laki,Jawa Barat,S1,13,3
+76,43,Perempuan,Bali,S1,10,3
+77,42,Laki-laki,Jakarta,S2,16,3
+78,58,Perempuan,Jawa Barat,SMA,19,5
+79,46,Perempuan,Bali,SMA,14,5
+80,32,Perempuan,Jawa Timur,SMA,9,1
+81,18,Laki-laki,Jawa Barat,Diploma,15,4
+82,42,Perempuan,Jawa Barat,S1,9,3
+83,24,Perempuan,Jawa Timur,SMA,15,4
+84,26,Perempuan,Jawa Tengah,S1,8,5
+85,41,Perempuan,Jakarta,Diploma,13,5
+86,18,Perempuan,Jawa Tengah,S1,12,5
+87,25,Laki-laki,Bali,S1,12,4
+88,41,Perempuan,Jawa Timur,SMA,14,5
+89,28,Perempuan,Jawa Tengah,Diploma,19,1
+90,34,Perempuan,Jawa Barat,Diploma,3,5
+91,25,Laki-laki,Bali,SMA,16,2
+92,52,Laki-laki,Bali,Diploma,19,4
+93,52,Perempuan,Jawa Tengah,SMA,16,2
+94,50,Perempuan,Jawa Tengah,Diploma,13,5
+95,22,Laki-laki,Jawa Timur,Diploma,14,1
+96,59,Perempuan,Jakarta,Diploma,12,3
+97,56,Laki-laki,Jawa Tengah,S1,6,5
+98,58,Laki-laki,Jawa Tengah,SMA,2,1
+99,45,Laki-laki,Jawa Barat,S1,4,4
+100,24,Laki-laki,Bali,SMA,8,2
+101,26,Perempuan,Jakarta,SMA,13,2
+102,25,Laki-laki,Jawa Barat,S1,16,2
+103,29,Perempuan,Jawa Timur,SMA,6,4
+104,51,Perempuan,Jawa Timur,Diploma,16,1
+105,50,Perempuan,Jawa Tengah,Diploma,9,4
+106,40,Perempuan,Jawa Tengah,SMA,11,2
+107,41,Laki-laki,Jawa Timur,SMA,17,5
+108,54,Perempuan,Jawa Tengah,SMA,9,3
+109,52,Perempuan,Jakarta,S1,2,4
+110,57,Laki-laki,Jawa Tengah,Diploma,13,4
+111,39,Perempuan,Bali,SMA,6,1
+112,44,Perempuan,Jawa Tengah,Diploma,4,1
+113,52,Perempuan,Jawa Barat,S1,2,4
+114,18,Perempuan,Jakarta,SMA,5,2
+115,52,Perempuan,Jawa Barat,Diploma,9,3
+116,54,Laki-laki,Jawa Barat,Diploma,4,1
+117,31,Perempuan,Bali,S2,11,2
+118,20,Perempuan,Jakarta,SMA,3,5
+119,18,Laki-laki,Jakarta,SMA,12,1
+120,22,Laki-laki,Jakarta,SMA,11,2
+121,43,Laki-laki,Jakarta,S1,15,2
+122,31,Perempuan,Jakarta,SMA,8,3
+123,56,Perempuan,Bali,Diploma,3,3
+124,44,Laki-laki,Jawa Tengah,S1,10,5
+125,26,Perempuan,Jawa Barat,S1,17,2
+126,32,Laki-laki,Jakarta,Diploma,14,2
+127,32,Perempuan,Jawa Tengah,S1,10,3
+128,43,Perempuan,Jawa Tengah,Diploma,5,1
+129,59,Perempuan,Jawa Barat,Diploma,11,1
+130,30,Laki-laki,Bali,SMA,13,4
+131,49,Laki-laki,Jawa Timur,S2,18,3
+132,56,Laki-laki,Jawa Timur,SMA,15,4
+133,49,Laki-laki,Jawa Tengah,SMA,15,3
+134,21,Perempuan,Jawa Barat,SMA,3,5
+135,47,Perempuan,Jawa Timur,S1,12,2
+136,54,Perempuan,Jawa Tengah,SMA,17,5
+137,40,Perempuan,Bali,SMA,7,3
+138,56,Perempuan,Jawa Timur,SMA,6,2
+139,32,Perempuan,Jawa Tengah,SMA,5,1
+140,46,Perempuan,Jawa Tengah,Diploma,16,1
+141,53,Perempuan,Jakarta,S1,5,4
+142,30,Laki-laki,Bali,SMA,11,3
+143,49,Laki-laki,Jakarta,Diploma,4,3
+144,24,Laki-laki,Jawa Barat,S1,6,1
+145,39,Perempuan,Jakarta,SMA,7,5
+146,45,Perempuan,Jakarta,SMA,9,2
+147,19,Laki-laki,Jawa Timur,S2,8,5
+148,59,Perempuan,Jawa Tengah,Diploma,11,5
+149,23,Perempuan,Bali,SMA,7,1
+150,45,Laki-laki,Jakarta,Diploma,15,1
+151,45,Laki-laki,Bali,SMA,5,1
+152,37,Perempuan,Jakarta,Diploma,14,4
+153,47,Perempuan,Jawa Barat,SMA,18,5
+154,28,Perempuan,Jakarta,SMA,8,3
+155,45,Perempuan,Jawa Timur,SMA,5,2
+156,42,Perempuan,Jawa Tengah,S2,15,4
+157,56,Perempuan,Jawa Barat,S1,4,3
+158,50,Perempuan,Jakarta,SMA,6,5
+159,18,Perempuan,Bali,SMA,17,1
+160,44,Laki-laki,Jawa Barat,S1,5,5
+161,30,Laki-laki,Jawa Barat,SMA,3,2
+162,58,Laki-laki,Jakarta,SMA,19,4
+163,20,Perempuan,Jawa Barat,S2,18,4
+164,56,Perempuan,Bali,SMA,15,2
+165,23,Perempuan,Jawa Barat,S1,14,3
+166,25,Laki-laki,Bali,S2,13,3
+167,44,Laki-laki,Jakarta,SMA,7,4
+168,26,Laki-laki,Jawa Tengah,SMA,5,4
+169,54,Laki-laki,Jawa Barat,SMA,17,1
+170,50,Perempuan,Jawa Tengah,S1,14,3
+171,59,Laki-laki,Bali,S1,5,2
+172,41,Laki-laki,Jawa Barat,S1,18,3
+173,32,Perempuan,Jawa Timur,SMA,2,1
+174,49,Laki-laki,Jawa Tengah,S1,19,4
+175,49,Perempuan,Jawa Barat,S2,18,4
+176,41,Perempuan,Jawa Tengah,S1,16,1
+177,58,Laki-laki,Jawa Barat,S2,12,2
+178,29,Perempuan,Jakarta,S1,14,4
+179,56,Perempuan,Jawa Tengah,S1,2,5
+180,19,Perempuan,Jawa Timur,Diploma,18,4
+181,20,Laki-laki,Jawa Timur,SMA,7,5
+182,54,Perempuan,Bali,SMA,5,1
+183,34,Perempuan,Jawa Barat,S1,17,1
+184,19,Laki-laki,Jawa Tengah,SMA,16,4
+185,19,Laki-laki,Bali,S1,16,3
+186,45,Perempuan,Jawa Tengah,S2,7,5
+187,40,Perempuan,Jawa Barat,S1,16,2
+188,54,Laki-laki,Jawa Timur,SMA,15,4
+189,49,Perempuan,Jakarta,SMA,12,2
+190,50,Laki-laki,Jawa Timur,SMA,8,4
+191,18,Laki-laki,Bali,S1,10,3
+192,36,Laki-laki,Jakarta,S1,17,3
+193,19,Laki-laki,Bali,S2,6,3
+194,43,Laki-laki,Jawa Barat,Diploma,11,3
+195,49,Laki-laki,Jakarta,S2,19,1
+196,23,Perempuan,Bali,S1,4,1
+197,49,Laki-laki,Jawa Barat,SMA,14,5
+198,21,Laki-laki,Jawa Timur,S1,12,2
+199,28,Perempuan,Jawa Barat,SMA,18,4
+200,34,Laki-laki,Jawa Tengah,SMA,14,4
+201,55,Perempuan,Jawa Barat,S1,7,1
+202,41,Laki-laki,Jawa Barat,SMA,18,4
+203,22,Laki-laki,Jawa Tengah,S1,14,1
+204,51,Laki-laki,Bali,S1,11,5
+205,23,Laki-laki,Bali,Diploma,4,2
+206,39,Laki-laki,Jawa Barat,SMA,15,5
+207,28,Laki-laki,Jawa Tengah,Diploma,6,3
+208,33,Laki-laki,Jawa Tengah,Diploma,6,3
+209,50,Laki-laki,Jawa Timur,Diploma,18,3
+210,26,Laki-laki,Bali,Diploma,11,5
+211,23,Laki-laki,Jakarta,SMA,6,4
+212,33,Laki-laki,Bali,Diploma,5,2
+213,46,Perempuan,Bali,SMA,7,3
+214,20,Perempuan,Jawa Timur,S1,5,3
+215,37,Laki-laki,Jakarta,S1,8,3
+216,53,Perempuan,Jawa Timur,Diploma,8,2
+217,36,Perempuan,Jakarta,Diploma,19,3
+218,43,Laki-laki,Jawa Barat,S2,4,2
+219,20,Perempuan,Jakarta,S1,2,3
+220,36,Perempuan,Jawa Timur,S2,5,5
+221,37,Laki-laki,Bali,S1,7,5
+222,49,Laki-laki,Jakarta,SMA,10,2
+223,24,Perempuan,Jakarta,SMA,15,5
+224,58,Perempuan,Jawa Tengah,Diploma,13,2
+225,50,Laki-laki,Bali,SMA,5,5
+226,57,Laki-laki,Jawa Barat,Diploma,13,5
+227,56,Laki-laki,Jawa Timur,SMA,11,2
+228,35,Perempuan,Jawa Barat,Diploma,8,4
+229,57,Perempuan,Bali,S1,4,5
+230,18,Laki-laki,Jakarta,S1,15,3
+231,28,Laki-laki,Jakarta,Diploma,11,4
+232,45,Perempuan,Bali,S1,17,2
+233,42,Laki-laki,Jakarta,Diploma,17,4
+234,40,Laki-laki,Jakarta,S1,11,1
+235,48,Perempuan,Jakarta,SMA,14,1
+236,47,Perempuan,Jawa Timur,S2,7,5
+237,59,Perempuan,Jawa Timur,S1,13,5
+238,52,Perempuan,Jawa Tengah,SMA,10,3
+239,24,Laki-laki,Jawa Barat,SMA,14,4
+240,33,Laki-laki,Bali,Diploma,5,1
+241,43,Perempuan,Bali,SMA,12,5
+242,19,Laki-laki,Bali,SMA,19,4
+243,18,Laki-laki,Jawa Tengah,S1,12,5
+244,29,Laki-laki,Jawa Timur,Diploma,5,5
+245,22,Laki-laki,Jawa Tengah,S1,19,1
+246,54,Laki-laki,Bali,S2,2,1
+247,49,Laki-laki,Jawa Barat,Diploma,8,5
+248,26,Laki-laki,Jakarta,Diploma,7,2
+249,58,Laki-laki,Jawa Timur,SMA,16,5
+250,52,Perempuan,Jawa Timur,S1,19,5
+251,36,Perempuan,Jawa Tengah,SMA,12,3
+252,33,Perempuan,Jawa Timur,S2,16,3
+253,20,Perempuan,Bali,S1,17,3
+254,37,Perempuan,Bali,Diploma,8,2
+255,41,Laki-laki,Jawa Tengah,SMA,11,2
+256,50,Perempuan,Bali,S1,13,5
+257,41,Perempuan,Jawa Barat,S1,15,3
+258,28,Perempuan,Jawa Tengah,SMA,6,2
+259,25,Laki-laki,Jawa Barat,SMA,19,1
+260,53,Laki-laki,Jakarta,S1,6,5
+261,55,Laki-laki,Jawa Barat,SMA,4,4
+262,57,Laki-laki,Jakarta,S2,6,5
+263,37,Perempuan,Jakarta,Diploma,18,4
+264,52,Perempuan,Jawa Barat,SMA,13,3
+265,42,Laki-laki,Jawa Tengah,S1,10,4
+266,52,Perempuan,Bali,SMA,2,3
+267,42,Perempuan,Bali,Diploma,19,1
+268,46,Laki-laki,Jakarta,SMA,5,4
+269,35,Laki-laki,Jakarta,SMA,11,5
+270,35,Laki-laki,Jawa Tengah,S1,8,3
+271,19,Laki-laki,Jawa Timur,Diploma,2,5
+272,52,Laki-laki,Jawa Barat,Diploma,18,2
+273,33,Laki-laki,Jakarta,S1,3,3
+274,58,Laki-laki,Bali,S1,12,4
+275,53,Laki-laki,Jawa Tengah,SMA,10,3
+276,50,Perempuan,Jawa Barat,SMA,8,5
+277,21,Laki-laki,Jawa Tengah,S2,18,1
+278,50,Perempuan,Jawa Barat,S1,18,3
+279,31,Laki-laki,Jawa Barat,Diploma,3,4
+280,38,Perempuan,Jakarta,SMA,7,2
+281,37,Laki-laki,Jawa Tengah,SMA,15,1
+282,25,Laki-laki,Jawa Tengah,S1,7,2
+283,24,Perempuan,Bali,S1,3,3
+284,20,Perempuan,Bali,S1,2,5
+285,34,Perempuan,Jakarta,S1,11,5
+286,50,Laki-laki,Jakarta,S1,6,4
+287,29,Laki-laki,Jawa Timur,SMA,3,5
+288,39,Perempuan,Bali,Diploma,17,1
+289,39,Perempuan,Jawa Barat,SMA,3,5
+290,47,Perempuan,Jawa Tengah,SMA,11,4
+291,55,Perempuan,Jakarta,S1,3,3
+292,55,Laki-laki,Jawa Tengah,Diploma,17,3
+293,25,Perempuan,Jawa Tengah,Diploma,17,5
+294,44,Laki-laki,Jawa Timur,SMA,8,2
+295,44,Laki-laki,Bali,SMA,13,3
+296,51,Laki-laki,Jakarta,SMA,16,5
+297,38,Perempuan,Jawa Tengah,SMA,9,4
+298,47,Laki-laki,Jakarta,S1,7,5
+299,50,Laki-laki,Jawa Barat,SMA,11,3
+300,45,Perempuan,Jawa Timur,S1,4,4
+301,50,Laki-laki,Jawa Barat,SMA,18,5
+302,22,Perempuan,Jakarta,SMA,8,1
+303,36,Laki-laki,Jakarta,SMA,5,4
+304,21,Perempuan,Bali,Diploma,15,1
+305,52,Perempuan,Jawa Tengah,S1,16,2
+306,34,Laki-laki,Jawa Tengah,Diploma,9,4
+307,45,Laki-laki,Jawa Barat,Diploma,16,1
+308,47,Laki-laki,Jawa Timur,S1,15,3
+309,46,Laki-laki,Jawa Tengah,SMA,10,3
+310,23,Perempuan,Bali,SMA,9,2
+311,52,Laki-laki,Jawa Barat,S1,18,4
+312,58,Perempuan,Jawa Barat,S1,3,4
+313,54,Laki-laki,Bali,SMA,4,4
+314,41,Perempuan,Jawa Timur,S2,9,2
+315,46,Perempuan,Bali,S1,13,4
+316,48,Perempuan,Jawa Timur,SMA,2,3
+317,52,Laki-laki,Bali,S1,11,1
+318,50,Laki-laki,Bali,Diploma,4,3
+319,38,Laki-laki,Jakarta,Diploma,7,3
+320,49,Perempuan,Jawa Barat,SMA,8,1
+321,40,Perempuan,Bali,SMA,19,3
+322,50,Perempuan,Bali,S1,12,2
+323,20,Laki-laki,Jawa Tengah,Diploma,6,1
+324,35,Perempuan,Jawa Barat,S1,12,3
+325,42,Perempuan,Jawa Tengah,S1,13,5
+326,59,Laki-laki,Jawa Barat,SMA,11,3
+327,48,Laki-laki,Jawa Tengah,S1,9,2
+328,20,Perempuan,Bali,SMA,10,4
+329,57,Perempuan,Bali,Diploma,5,3
+330,41,Perempuan,Jakarta,S1,6,4
+331,49,Laki-laki,Jawa Tengah,SMA,9,5
+332,39,Perempuan,Jawa Timur,Diploma,10,3
+333,40,Laki-laki,Jakarta,SMA,16,1
+334,19,Laki-laki,Jawa Tengah,SMA,16,4
+335,44,Laki-laki,Jawa Tengah,SMA,17,5
+336,59,Perempuan,Jakarta,SMA,15,1
+337,19,Perempuan,Bali,S2,9,1
+338,43,Perempuan,Jawa Tengah,Diploma,19,1
+339,34,Laki-laki,Bali,SMA,11,1
+340,57,Perempuan,Jakarta,Diploma,7,3
+341,50,Laki-laki,Bali,SMA,13,3
+342,26,Perempuan,Jawa Barat,S2,3,3
+343,56,Laki-laki,Jawa Timur,S1,8,5
+344,46,Laki-laki,Jawa Tengah,S1,17,5
+345,59,Laki-laki,Jawa Timur,SMA,4,5
+346,43,Laki-laki,Bali,Diploma,14,2
+347,52,Perempuan,Jawa Tengah,Diploma,4,5
+348,42,Perempuan,Bali,S1,19,3
+349,41,Laki-laki,Jawa Barat,SMA,12,3
+350,30,Perempuan,Jakarta,SMA,9,2
+351,24,Laki-laki,Jawa Tengah,S2,7,2
+352,53,Perempuan,Jawa Barat,Diploma,2,5
+353,37,Perempuan,Jawa Barat,SMA,2,4
+354,18,Perempuan,Jawa Tengah,SMA,9,2
+355,25,Laki-laki,Bali,S2,6,1
+356,33,Perempuan,Jawa Barat,SMA,17,3
+357,31,Perempuan,Jawa Timur,S1,12,1
+358,29,Laki-laki,Jawa Barat,S1,6,3
+359,40,Laki-laki,Bali,SMA,5,3
+360,32,Perempuan,Bali,S1,7,2
+361,45,Perempuan,Jawa Timur,SMA,15,2
+362,51,Perempuan,Jawa Barat,SMA,10,1
+363,19,Perempuan,Bali,S1,13,3
+364,49,Perempuan,Jawa Tengah,S1,12,1
+365,40,Laki-laki,Jakarta,S1,15,4
+366,39,Laki-laki,Jakarta,Diploma,17,1
+367,42,Laki-laki,Jakarta,SMA,2,5
+368,39,Perempuan,Jawa Barat,SMA,14,1
+369,39,Laki-laki,Jawa Timur,SMA,14,5
+370,59,Perempuan,Bali,SMA,3,5
+371,23,Perempuan,Jawa Tengah,SMA,5,5
+372,32,Perempuan,Jawa Tengah,SMA,7,4
+373,54,Laki-laki,Jawa Barat,SMA,6,1
+374,50,Perempuan,Jakarta,SMA,4,1
+375,25,Laki-laki,Jawa Barat,Diploma,2,4
+376,22,Perempuan,Jawa Timur,S1,5,3
+377,56,Laki-laki,Jawa Timur,SMA,3,2
+378,21,Laki-laki,Bali,S2,6,1
+379,23,Perempuan,Bali,S1,4,2
+380,49,Laki-laki,Jawa Timur,SMA,10,4
+381,47,Laki-laki,Jawa Timur,S1,7,3
+382,52,Perempuan,Jawa Timur,Diploma,19,3
+383,57,Perempuan,Jawa Barat,Diploma,7,3
+384,33,Perempuan,Jawa Timur,SMA,13,4
+385,30,Perempuan,Jawa Tengah,Diploma,12,5
+386,59,Perempuan,Jakarta,SMA,3,5
+387,47,Laki-laki,Jawa Timur,Diploma,16,2
+388,36,Laki-laki,Jakarta,S1,13,5
+389,34,Laki-laki,Jawa Barat,S1,13,5
+390,36,Perempuan,Jakarta,Diploma,10,3
+391,45,Perempuan,Jawa Barat,S1,3,3
+392,43,Laki-laki,Jawa Tengah,SMA,4,2
+393,54,Laki-laki,Jawa Barat,SMA,13,1
+394,43,Perempuan,Jawa Barat,S1,17,2
+395,40,Laki-laki,Bali,SMA,2,2
+396,26,Perempuan,Jawa Timur,SMA,4,4
+397,29,Perempuan,Jawa Timur,SMA,3,4
+398,18,Perempuan,Jawa Tengah,SMA,10,2
+399,18,Laki-laki,Jawa Tengah,S2,16,2
+400,51,Perempuan,Jawa Timur,Diploma,19,2
+401,49,Perempuan,Bali,S2,12,5
+402,42,Perempuan,Jawa Timur,Diploma,17,4
+403,57,Perempuan,Bali,Diploma,18,2
+404,18,Perempuan,Jawa Tengah,SMA,6,3
+405,33,Perempuan,Jakarta,S1,13,3
+406,56,Laki-laki,Jawa Tengah,SMA,12,5
+407,22,Perempuan,Jawa Tengah,S1,16,5
+408,39,Perempuan,Jawa Barat,S1,4,1
+409,46,Laki-laki,Jawa Barat,SMA,2,1
+410,20,Perempuan,Jawa Barat,S2,17,1
+411,29,Perempuan,Jawa Barat,S1,3,5
+412,43,Perempuan,Bali,S1,3,5
+413,33,Laki-laki,Jawa Timur,SMA,4,5
+414,54,Laki-laki,Jakarta,Diploma,9,3
+415,39,Perempuan,Jawa Tengah,Diploma,16,5
+416,46,Perempuan,Bali,SMA,8,3
+417,31,Laki-laki,Jakarta,SMA,7,1
+418,45,Perempuan,Bali,S1,10,1
+419,22,Perempuan,Bali,SMA,2,1
+420,47,Perempuan,Jawa Tengah,Diploma,9,2
+421,22,Perempuan,Jawa Timur,S2,4,2
+422,29,Laki-laki,Jawa Barat,S1,5,4
+423,33,Laki-laki,Jawa Timur,SMA,16,4
+424,43,Laki-laki,Jawa Tengah,S1,7,4
+425,43,Perempuan,Jawa Tengah,SMA,16,2
+426,38,Laki-laki,Jawa Tengah,SMA,4,2
+427,56,Laki-laki,Jakarta,S1,15,4
+428,53,Laki-laki,Jawa Timur,SMA,15,4
+429,50,Perempuan,Jawa Timur,SMA,5,5
+430,47,Perempuan,Bali,Diploma,13,4
+431,54,Laki-laki,Bali,SMA,18,5
+432,40,Laki-laki,Bali,SMA,8,3
+433,27,Perempuan,Jawa Tengah,Diploma,10,2
+434,22,Laki-laki,Jawa Timur,S1,4,4
+435,53,Laki-laki,Jawa Tengah,S1,14,2
+436,51,Laki-laki,Jakarta,SMA,16,2
+437,48,Laki-laki,Bali,Diploma,19,2
+438,27,Laki-laki,Jawa Tengah,SMA,2,3
+439,36,Perempuan,Jawa Tengah,SMA,7,1
+440,49,Laki-laki,Jakarta,S1,3,4
+441,18,Perempuan,Jawa Barat,SMA,15,1
+442,22,Laki-laki,Jawa Timur,SMA,7,1
+443,21,Perempuan,Jawa Barat,S1,15,1
+444,33,Perempuan,Bali,S1,5,2
+445,41,Laki-laki,Jawa Tengah,S1,9,5
+446,33,Perempuan,Jakarta,SMA,4,2
+447,19,Laki-laki,Jakarta,SMA,15,2
+448,45,Perempuan,Jawa Timur,SMA,18,1
+449,49,Laki-laki,Jawa Barat,SMA,9,2
+450,44,Laki-laki,Jawa Timur,S1,15,1
+451,37,Laki-laki,Jawa Tengah,S1,7,5
+452,41,Perempuan,Jawa Timur,S1,17,4
+453,29,Perempuan,Jakarta,S1,15,1
+454,52,Perempuan,Jakarta,Diploma,4,5
+455,50,Laki-laki,Bali,S1,11,4
+456,50,Perempuan,Bali,SMA,10,3
+457,54,Laki-laki,Jawa Tengah,Diploma,14,1
+458,29,Perempuan,Jawa Barat,Diploma,8,1
+459,20,Laki-laki,Jawa Timur,SMA,15,3
+460,18,Laki-laki,Jawa Tengah,SMA,10,3
+461,50,Laki-laki,Bali,S2,16,1
+462,57,Laki-laki,Jawa Timur,SMA,15,3
+463,27,Perempuan,Bali,SMA,7,2
+464,46,Laki-laki,Jawa Timur,Diploma,5,4
+465,30,Perempuan,Jawa Barat,S1,9,4
+466,29,Laki-laki,Jawa Tengah,Diploma,18,4
+467,48,Perempuan,Jawa Timur,S1,10,2
+468,19,Laki-laki,Jakarta,SMA,2,3
+469,52,Laki-laki,Jakarta,S1,15,5
+470,40,Perempuan,Jawa Timur,SMA,12,3
+471,34,Laki-laki,Jawa Timur,S1,4,1
+472,43,Laki-laki,Jawa Timur,S1,10,4
+473,25,Perempuan,Jakarta,SMA,15,3
+474,46,Perempuan,Jakarta,SMA,10,5
+475,43,Laki-laki,Jawa Timur,SMA,5,1
+476,27,Laki-laki,Bali,SMA,5,2
+477,43,Perempuan,Bali,SMA,9,2
+478,51,Laki-laki,Jawa Barat,S1,3,5
+479,58,Laki-laki,Jawa Tengah,Diploma,10,1
+480,24,Laki-laki,Bali,SMA,15,4
+481,21,Perempuan,Jakarta,SMA,10,3
+482,28,Perempuan,Bali,SMA,17,1
+483,46,Laki-laki,Jawa Barat,S1,18,2
+484,53,Laki-laki,Jawa Barat,SMA,17,5
+485,42,Laki-laki,Jawa Tengah,S1,13,5
+486,38,Perempuan,Bali,S1,4,3
+487,53,Laki-laki,Jakarta,S1,12,5
+488,27,Laki-laki,Jakarta,S1,15,5
+489,54,Perempuan,Jawa Timur,SMA,19,1
+490,26,Laki-laki,Jakarta,S2,6,4
+491,41,Perempuan,Jawa Tengah,SMA,17,3
+492,52,Laki-laki,Jawa Tengah,SMA,6,1
+493,52,Laki-laki,Jakarta,S1,4,4
+494,53,Laki-laki,Jakarta,S2,13,1
+495,35,Perempuan,Jawa Timur,S1,2,1
+496,56,Perempuan,Jakarta,SMA,10,5
+497,49,Perempuan,Jawa Timur,SMA,10,4
+498,41,Laki-laki,Jawa Timur,S2,5,3
+499,40,Perempuan,Jakarta,SMA,4,3
+500,49,Laki-laki,Jawa Barat,S1,18,4
