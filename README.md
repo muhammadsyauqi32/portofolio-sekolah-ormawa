@@ -1,6 +1,6 @@
 # 🧮 Kalkulator Sederhana (Python)
 
-Program kalkulator sederhana berbasis **Python** yang dapat melakukan operasi dasar: **penjumlahan, pengurangan, perkalian, dan pembagian**.  
+Program kalkulator sederhana berbasis **Python** yang dapat melakukan operasi dasar, yaitu **penjumlahan, pengurangan, perkalian, dan pembagian**.  
 Dilengkapi dengan **validasi error** jika pengguna memasukkan operator yang salah atau mencoba membagi dengan nol.
 
 ---
